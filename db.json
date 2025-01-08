@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "FirstName": "Harry",
+      "LastName": "J",
+      "Email": "hary@gmail.com",
+      "DateofBirth": "2024-11-21T18:30:00.000Z",
+      "Gender": "2",
+      "Education": "Diplamo",
+      "Address": "delhi",
+      "Experience": "2 years",
+      "EmployeeRole": ".Net Developer",
+      "id": "4cc7"
+    },
+    {
+      "id": "d84a",
+      "FirstName": "Rose",
+      "LastName": "R",
+      "Email": "rose123@gmail.com",
+      "DateofBirth": "2024-04-02T18:30:00.000Z",
+      "Gender": "2",
+      "Education": "PostGraduate",
+      "Address": "vellor",
+      "Experience": "1 Year",
+      "EmployeeRole": "Angular Developer"
+    },
+    {
+      "FirstName": "Kani",
+      "LastName": "L",
+      "Email": "kani@1123gmail.com",
+      "DateofBirth": "2015-12-31T18:30:00.000Z",
+      "Gender": "2",
+      "Education": "Diplamo",
+      "Address": "Mumbai",
+      "Experience": ">6 Months",
+      "EmployeeRole": "Java Developer",
+      "id": "8e72"
+    },
+    {
+      "id": "629e",
+      "FirstName": "Jani",
+      "LastName": "K",
+      "Email": "jani@123gmail.cpm",
+      "DateofBirth": "2003-10-30T18:30:00.000Z",
+      "Gender": "2",
+      "Education": "PostGraduate",
+      "Address": "Tirupattur",
+      "Experience": ">6 Months",
+      "EmployeeRole": "C# Developer"
+    }
+  ]
+}
